@@ -1,5 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-
+#slider-44 P {
+  text-align: center;
+  color: #000000;
+}
+#slider-44 H1 {
+  color: #ff0b0b;
+}
 #menu-5 .mbr-brand__name {
   font-size: 16px;
 }
@@ -12,19 +18,9 @@
 #menu-5 .mbr-navbar__hamburger {
   color: #fac51c;
 }
-#header4-7 H1 {
-  color: #e25041;
-  font-size: 60px;
-  font-family: 'Oswald', sans-serif;
-  text-align: center;
-}
-#header4-7 P {
-  color: #fcff00;
-  font-size: 25px;
-}
 #msg-box2-40 .mbr-header .mbr-header__text {
   color: #b8312f;
-  font-size: 14px;
+  font-size: 17px;
 }
 #msg-box2-40 .mbr-article {
   color: #252525;
@@ -48,6 +44,9 @@
   color: #fff909;
 }
 #contacts3-2z STRONG {
+  font-size: 25px;
+}
+#contacts3-2z P {
   font-size: 20px;
 }
 
@@ -279,7 +278,7 @@
   background: #2c2c2c;
 }
 #menu-11 .mbr-navbar__hamburger {
-  color: #f7da64;
+  color: #fac51c;
 }
 #content5-13 .mbr-header .mbr-header__text {
   text-align: center;
@@ -363,7 +362,7 @@
   background: #2c2c2c;
 }
 #menu-1n .mbr-navbar__hamburger {
-  color: #f7da64;
+  color: #fac51c;
 }
 #content5-1o .mbr-header .mbr-header__text {
   text-align: center;
@@ -477,7 +476,7 @@
   background: #2c2c2c;
 }
 #menu-1y .mbr-navbar__hamburger {
-  color: #f7da64;
+  color: #fac51c;
 }
 #content5-20 .mbr-header .mbr-header__text {
   text-align: center;
